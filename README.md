@@ -1,10 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#3628b0height=150&section=header" />
 ## Hi there 👋
-안녕하세요
-만나서 반갑습니다.
-강희영 입니다.
+안녕하세요 <br>
+만나서 반갑습니다. <br>
+강희영 입니다. <br>
 5개월동안 잘 부탁드립니다.
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 
 <!--
