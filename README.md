@@ -2,6 +2,11 @@
 ## Hi there 👋
 안녕하세요
 만나서 반갑습니다.
+강희영 입니다.
+5개월동안 잘 부탁드립니다.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
+
 <!--
 **heeyoung35/heeyoung35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
